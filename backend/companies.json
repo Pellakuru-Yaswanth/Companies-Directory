@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Tata Consultancy Services",
+    "location": "Bangalore",
+    "industry": "IT"
+  },
+  {
+    "name": "Infosys",
+    "location": "Bangalore",
+    "industry": "IT"
+  },
+  {
+    "name": "Wipro",
+    "location": "Hyderabad",
+    "industry": "IT"
+  },
+  {
+    "name": "Accenture",
+    "location": "Bangalore",
+    "industry": "Consulting"
+  },
+  {
+    "name": "Capgemini",
+    "location": "Hyderabad",
+    "industry": "IT"
+  },
+  {
+    "name": "Deloitte",
+    "location": "Hyderabad",
+    "industry": "Consulting"
+  },
+  {
+    "name": "Tech Mahindra",
+    "location": "Pune",
+    "industry": "Telecom"
+  },
+  {
+    "name": "HCL Technologies",
+    "location": "Chennai",
+    "industry": "IT"
+  },
+  {
+    "name": "IBM",
+    "location": "Bangalore",
+    "industry": "IT"
+  },
+  {
+    "name": "Oracle",
+    "location": "Hyderabad",
+    "industry": "IT"
+  },
+  {
+    "name": "Amazon",
+    "location": "Hyderabad",
+    "industry": "E-commerce"
+  },
+  {
+    "name": "Flipkart",
+    "location": "Bangalore",
+    "industry": "E-commerce"
+  },
+  {
+    "name": "Google",
+    "location": "Bangalore",
+    "industry": "Tech"
+  },
+  {
+    "name": "Microsoft",
+    "location": "Hyderabad",
+    "industry": "Tech"
+  },
+  {
+    "name": "Reliance Jio",
+    "location": "Mumbai",
+    "industry": "Telecom"
+  },
+  {
+    "name": "Bharti Airtel",
+    "location": "Gurgaon",
+    "industry": "Telecom"
+  },
+  {
+    "name": "Siemens",
+    "location": "Bangalore",
+    "industry": "Engineering"
+  },
+  {
+    "name": "Larsen & Toubro",
+    "location": "Chennai",
+    "industry": "Engineering"
+  },
+  {
+    "name": "EY",
+    "location": "Bangalore",
+    "industry": "Consulting"
+  },
+  {
+    "name": "PwC",
+    "location": "Hyderabad",
+    "industry": "Consulting"
+  }
+]
